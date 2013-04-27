@@ -1,0 +1,10 @@
+data
+.sass-cache
+_site
+.DS_Store
+*un~
+*pyc
+*swp
+*log
+*pid
+famoso_reports.egg-info
